@@ -4,4 +4,5 @@ def  introduction (name)
 
 
 def introduction_with_language(name,language)
-  puts "Hi, my name is#{name} and "
+  puts "Hi, my name is#{name} and I am learning #{language}.Ember.js}. "
+end
